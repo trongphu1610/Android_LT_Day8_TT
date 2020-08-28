@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LT_Day8</string>
+    <string name="title_this_is_messege">This is messege</string>
+    <string name="title_hello_world">Hello world</string>
+</resources>
